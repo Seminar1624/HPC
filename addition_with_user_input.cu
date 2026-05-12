@@ -6,6 +6,7 @@
 
 
 // second cell
+%%writefile vector_add.cu
 #include <iostream>
 #include <cuda_runtime.h>
 using namespace std;
