@@ -11,6 +11,7 @@
 
 
 // second cell
+%%writefile matrix_mul.cu
 #include <iostream>
 #include <cuda_runtime.h>
 using namespace std;
